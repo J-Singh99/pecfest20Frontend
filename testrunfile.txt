@@ -1,0 +1,3 @@
+-> First file made
+-> Testing push to repo
+-> Cheking out the git functioning 
